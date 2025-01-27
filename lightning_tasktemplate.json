@@ -6,7 +6,7 @@
       "bpmn:Activity"
     ],
 	 "icon": {
-      "contents": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 22 22' fill='none'%3E%3Cpath d='M12 2L6 12H10L8 20L14 10H10L12 2Z' fill='red'/%3E%3C/svg%3E"
+      "contents": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 22 22' fill='none'><path d='M12 2L6 12H10L8 20L14 10H10L12 2Z' fill='red'></path></svg>"
     },
     "properties": [
     {
